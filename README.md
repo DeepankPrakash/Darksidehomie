@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Darksidehomie
+- 👀 I’m interested in ...web development
+- 🌱 I’m currently learning ...java
+- 📫 How to reach me ... prakash.deepank@gmail.com

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darksidehomie
+- 👋 Hi, I’m @DeepankPrakash
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...web dev
 - 📫 How to reach me ... prakash.deepank@gmail.com
